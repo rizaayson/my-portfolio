@@ -4,7 +4,7 @@ import './assets/main.css'
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 
-// Importing Notyf
+// Import the default Notyf styles.
 import 'notyf/notyf.min.css';
 
 import { createApp } from 'vue'
